@@ -1,0 +1,16 @@
+body {
+    font-family: monospace;
+    text-align: center;
+}
+
+pre {
+    border: 1px solid black;
+    display: inline-block;
+    text-align: left;
+    padding: 10px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Elevator Simulator</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+
+<body>
+    <h1>Elevator Simulator</h1>
+    <label for="num_people">Enter Number of People (Max 5):</label>
+    <input type="number" id="num_people" min="1" max="5" value="5">
+    <button onclick="startSimulation()">Start Simulation</button>
+    <p id="status">Waiting for input...</p>
+    <p id="error" class="error"></p>
+    <pre id="building">Waiting for simulation...</pre>
+
+    <script src="../static/script.js"></script>
+</body>
+
+</html>
