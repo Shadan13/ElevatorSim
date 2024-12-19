@@ -13,10 +13,10 @@
 <g transform="matrix(0.72 0 0 0.72 540 540)"  >
 <rect style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-750" y="-750" rx="210" ry="210" width="1500" height="1500" />
 </g>
-<g transform="matrix(0.56 0 0 0.64 547.48 513.9)"  >
+<g transform="matrix(0.56 0 0 0.57 577.48 530.85)"  >
 <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  x="-750" y="-750" rx="0" ry="0" width="1500" height="1500" />
 </g>
-<g transform="matrix(2.01 0 0 2.01 555 486)"  >
+<g transform="matrix(2.01 0 0 1.75 540 511.37)"  >
 <g style=""   >
 		<g transform="matrix(1 0 0 1 -25.6 -196.27)"  >
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-230.4, -59.73)" d="M 273.067 51.2 L 187.734 51.2 C 183.032 51.2 179.20100000000002 55.031000000000006 179.20100000000002 59.733000000000004 C 179.20100000000002 64.435 183.032 68.266 187.734 68.266 L 273.067 68.266 C 277.769 68.266 281.6 64.435 281.6 59.733000000000004 C 281.6 55.031000000000006 277.769 51.2 273.067 51.2 z" stroke-linecap="round" />
@@ -32,7 +32,7 @@
 </g>
 </g>
 </g>
-<g transform="matrix(0.43 0 0 0.02 499.99 979.26)"  >
+<g transform="matrix(0.43 0 0 0.02 488.75 945.26)"  >
 <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  x="-750" y="-750" rx="0" ry="0" width="1500" height="1500" />
 </g>
 </svg>
